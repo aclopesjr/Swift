@@ -338,6 +338,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.easymob.FoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				VERSIONING_SYSTEM = "";
 			};
 			name = Debug;
 		};
@@ -352,6 +353,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.easymob.FoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				VERSIONING_SYSTEM = "";
 			};
 			name = Release;
 		};
